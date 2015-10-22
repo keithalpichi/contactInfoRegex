@@ -1,7 +1,7 @@
 #!usr/bin/env python3
 
 """ Finds phone numbers and email addresses using regular expressions
-    Uses the regex module.
+    Uses the regex and pyperclip module.
     Based off the book Automate the Boring Stuff With Python
     Created by Keith Alpichi on Oct. 22, 2015
 """
